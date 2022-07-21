@@ -23,6 +23,7 @@ ingredients:
   - 1 can crushed tomatoes
   - plain whole-milk or non-dairy yogurt (for serving; optional)
 ---
+![](/img/recipes/coconut-lentil-soup.jpg)
 
 Peel 1 onion and chop. Smash 6 garlic cloves with the flat side of your knife. Peel, then finely chop. Peel the ginger with a small spoon, then finely chop.
 
