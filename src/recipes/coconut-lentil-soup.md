@@ -1,5 +1,5 @@
 ---
-title: Coconut lentil soup
+title: BLAKE is the best
 image: /img/recipes/coconut-lentil-soup.jpg
 tags:
   - Soup 🥣
