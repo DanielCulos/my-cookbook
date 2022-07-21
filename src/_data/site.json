@@ -1,11 +1,11 @@
 {
-  "primaryColor": "#71ff85",
+  "primaryColor": "#db7f8e",
   "author": "Dan",
   "name": "Dan's somewhat organised recipes",
   "searchLabel": "Find recipes by name, tag or ingredients",
   "servingsLabel": "servings",
   "searchContainsLabel": "Contains",
-  "secondaryColor": "#70f5ff",
+  "secondaryColor": "#604d53",
   "ingredientsLabel": "What to add yo",
   "metaDescription": "Dan's recipes",
   "baseURL": "https://myonlinecookbook.netlify.app"
