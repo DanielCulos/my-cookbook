@@ -1,6 +1,8 @@
 ---
 title: Steak and Roast Capsicum
 image: /img/recipes/steak-capcicum_cropped.jpeg
+tags:
+  - Quick ⌛
 time: 20 Minute
 servings: 2
 sourceLabel: Dan
