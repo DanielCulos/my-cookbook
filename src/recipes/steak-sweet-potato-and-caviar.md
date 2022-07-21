@@ -18,6 +18,8 @@ ingredients:
 
  Envisioned while at the shops, "Dan, caviar and cream fresh isn't going to work with rib eye" - Annie
 
+Colloquially known as "The Kings Banquet", named by [@Blake_ed](www.instagram.com/blake_ed) (Check him out for awesome Instagram cooking videos)
+
 ## Steps
 
 1. 30-75 Minutes before cooking, take the rub eye out of the fridge and add Salt + Pepper and EVOO (Make sure you hit those sides)
