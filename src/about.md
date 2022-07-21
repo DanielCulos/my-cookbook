@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Hello, I am Dan
 bodyClass: u-free-text
 ---
-![](/img/recipes/dan.jpg "dan")
+![](/img/recipes/dan-smaller.jpg "dan")
 
 I explain myself through the cooking on this site, but here is what some others have had to say:
 
