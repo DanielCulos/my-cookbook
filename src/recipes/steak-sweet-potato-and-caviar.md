@@ -5,8 +5,7 @@ tags:
   - Dans favs ⭐
 time: 2 Hours
 servings: 2
-sourceLabel: Daniel Himself (Envisioned while at the shops, "Dan, caviar and
-  cream fresh isn't going to work with rib eye" - Annie)
+sourceLabel: Daniel Himself
 ingredients:
   - 1x Rib eye Bone in
   - Sweet Potato
@@ -15,6 +14,10 @@ ingredients:
   - EVOO
   - Paprica
 ---
+### How the recipe was discovered:
+
+ Envisioned while at the shops, "Dan, caviar and cream fresh isn't going to work with rib eye" - Annie
+
 ## Steps
 
 1. 30-75 Minutes before cooking, take the rub eye out of the fridge and add Salt + Pepper and EVOO (Make sure you hit those sides)
