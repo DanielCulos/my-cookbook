@@ -44,6 +44,6 @@ Done, you've now made yummy food, best served with a full bodied red. (Also don'
 
 ## Images while cooking
 
-![Post salted steaks](/img/recipes/steaks-just-waiting.jpeg "Post salted steaks")
+![Post salted steaks](/img/recipes/steaks-just-waiting.jpeg "Jett on her way to get the salted steak")
 
 ![](/img/recipes/steak-sweet-potato-done.jpg)
