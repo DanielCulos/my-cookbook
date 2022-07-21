@@ -8,11 +8,13 @@ servings: 2
 sourceLabel: Daniel Himself
 ingredients:
   - 1x Rib eye Bone in
-  - Sweet Potato
   - 400g Creme fresche
-  - Butter
+  - 1x Sweet Potato
+  - Butter (Get something good)
   - EVOO
   - Paprica
+  - Rosemary (For Basting)
+  - 25g Caviar (Can use lumpfish)
 ---
 ### How the recipe was discovered:
 
