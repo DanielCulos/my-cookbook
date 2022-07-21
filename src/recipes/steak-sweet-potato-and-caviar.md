@@ -1,6 +1,6 @@
 ---
 title: Steak, Sweet Potato and Caviar
-image: /img/recipes/steak-sweet-potato2-transposed.jpg
+image: /img/recipes/steaks_outside.jpg
 tags:
   - Dans favs ⭐
 time: 2 Hours
