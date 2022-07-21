@@ -42,8 +42,8 @@ Colloquially known as "The Kings Banquet", named by [@Blake_ed](www.instagram.co
 
 Done, you've now made yummy food, best served with a full bodied red. (Also don't eat cheese and snacks before this, it fills you up proper good.)
 
-
-
 ## Images while cooking
 
 ![Post salted steaks](/img/recipes/steaks-just-waiting.jpeg "Post salted steaks")
+
+![](/img/recipes/steak-sweet-potato-done.jpg)
