@@ -23,7 +23,7 @@ ingredients:
 ---
 
 Melt the butter in a deep frying pan. Add the onion and fry gently until softened for about 8 mins, then add the garlic and stir for 1 min. Stir in the rice to coat it in the buttery onions and garlic for 1-2 mins.
-
+![otter](https://i.imgur.com/uJ13Bqc.gifv)
 Dissolve the stock cube in 1 litre of boiling water, then add a ladle of the stock to the rice, along with the lemon juice and thyme. Bubble over a medium heat, stirring constantly. When almost all the liquid has been absorbed, add another ladle of stock and keep stirring. Tip in the courgette and keep adding the stock, stirring every now and then until the rice is just tender and creamy.
 
 To serve, stir in some seasoning, the lemon zest, Parmesan and crème fraîche.
